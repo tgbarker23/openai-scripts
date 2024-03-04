@@ -20,4 +20,6 @@ query DALL-E for image generation  (currently hardcoded to use dall-e-3)
 ```
 openai-scripts git:(main) ✗ python picture.py "picture of a pizza"
 ```
-
+## Links
+- [api docs](https://platform.openai.com/docs/introduction)
+- [pricing](https://gptforwork.com/tools/openai-chatgpt-api-pricing-calculator)
